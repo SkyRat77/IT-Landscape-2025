@@ -18,3 +18,4 @@ Klik op 'Create the first page'.
 Gebruik de Markdown-editor om je wiki-pagina te schrijven.
 Geef je pagina een titel en sla deze op.
 Je kunt meerdere pagina's maken en links tussen pagina's toevoegen voor betere navigatie.
+- Stap 4: Werk aan de wiki
